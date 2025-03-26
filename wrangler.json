@@ -12,7 +12,9 @@
   },
   "upload_source_maps": true
 }
-"route": {
-    "pattern": "akshaykaikottl.com/*",
-    "zone_name": "akshaykaikottl.com"
-  },
+"routes": [
+    {
+      "pattern": "akshaykaikottil.com",
+      "custom_domain": true
+    }
+  ]
