@@ -12,9 +12,8 @@
   },
   "upload_source_maps": true
 }
-"routes": [
-    {
+"routes": {
       "pattern": "akshaykaikottil.com",
       "custom_domain": true
-    }
-  ]
+}
+
