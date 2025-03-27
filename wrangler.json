@@ -10,9 +10,8 @@
   "observability": {
     "enabled": true
   },
-  "upload_source_maps": true
-}
- "routes": [
+  "upload_source_maps": true,
+  "routes": [
     {
       "pattern": "akshaykaikottil.com",
       "custom_domain": true
